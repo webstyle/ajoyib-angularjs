@@ -5,9 +5,7 @@ AngularJSni o'rganish uchun kerakli ma'lumot, resurslar va foydali pluginlar ro'
 
 ### Mundarija
 
-- [Awesome Angular](#ajoyib-angular)
-    - [AngularJSni o'rganish](#gettingangular)
-
+* [AngularJSni o'rganish](#angularjsni-organish)
 
 ## AngularJSni o'rganish
 
